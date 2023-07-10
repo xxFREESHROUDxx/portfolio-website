@@ -10,6 +10,9 @@
   border-radius: 2rem;
   border: 1px solid transparent;
   transition: var(--transition);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
 
 .portfolio__item:hover {
@@ -22,6 +25,10 @@
   overflow: hidden;
 }
 
+.portfolio__item-image img {
+  height: 11rem;
+}
+
 .portfolio__item h3 {
   margin: 1.2rem 0 2rem;
 }
@@ -30,6 +37,7 @@
   display: flex;
   gap: 1rem;
   margin-bottom: 1rem;
+  justify-content: center;
 }
 
 /* ====================== MEDIA QUEIRES (MEDIUM DEVICS) =================================== */
