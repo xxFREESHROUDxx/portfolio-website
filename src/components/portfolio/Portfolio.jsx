@@ -17,10 +17,10 @@ const Portfolio = () => {
               </div>
               <h3>{title}</h3>
               <div className='portfolio__item-cta'>
-                <a href={github} className='btn' target='_blank'>
+                <a href={github} className='btn' target='_blank' rel="noopener noreferrer">
                   Github
                 </a>
-                <a href={demo} target='_blank' className='btn btn-primary'>
+                <a href={demo} target='_blank' className='btn btn-primary' rel="noopener noreferrer">
                   Live Demo
                 </a>
               </div>

@@ -41,7 +41,7 @@ const data = [
     image: IMG2,
     title: 'The Ultimate Weather App using Meta-Weather API',
     github: 'https://github.com/xxfreeshroudxx/the-ultimate-weather-app',
-    demo: 'https://the-ultimate-weather-app.herokuapp.com/',
+    demo: 'https://friendly-mccarthy-aedd65.netlify.app/',
   },
   {
     id: 6,

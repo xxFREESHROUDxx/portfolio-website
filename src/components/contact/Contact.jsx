@@ -24,26 +24,26 @@ const Contact = () => {
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
-            <MdOutlineEmail className="contact__option-icon" />
+            <MdOutlineEmail className="contact__option-icon mx-auto" />
             <h4>Email</h4>
             <h5>baibhavkc11@gmail.com</h5>
-            <a href="mailto:baibhavkc11@gmail.com" target="_blank">
+            <a href="mailto:baibhavkc11@gmail.com" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
           <article className="contact__option">
-            <RiMessengerLine className="contact__option-icon" />
+            <RiMessengerLine className="contact__option-icon mx-auto" />
             <h4>Messenger</h4>
             <h5>baibhavkc</h5>
-            <a href="https://m.me/Madridista.King07" target="_blank">
+            <a href="https://m.me/Madridista.King07" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
           <article className="contact__option">
-            <BsWhatsapp className="contact__option-icon" />
+            <BsWhatsapp className="contact__option-icon mx-auto" />
             <h4>WhatsApp</h4>
             <h5>+9779860852534</h5>
-            <a href="https://api.whatsapp.com/send?phone=9779860852534" target="_blank">
+            <a href="https://api.whatsapp.com/send?phone=9779860852534" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>

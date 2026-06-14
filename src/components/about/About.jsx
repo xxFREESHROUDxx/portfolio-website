@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="About Image" />
+            <img src={ME} alt="Profile" />
           </div>
         </div>
 
@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            I’m a full-stack engineer focused on building scalable and performant web applications.
+            I&apos;m a full-stack engineer focused on building scalable and performant web applications.
             With 5+ years of experience working across React, Next.js, and NestJS, I&apos;ve led
             development of complex features including real-time systems and production-grade
             platforms. I care deeply about clean architecture, performance, and creating smooth user
