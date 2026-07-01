@@ -40,11 +40,8 @@ const About = () => {
           </div>
 
           <p>
-            I&apos;m a full-stack engineer focused on building scalable and performant web applications.
-            With 5+ years of experience working across React, Next.js, and NestJS, I&apos;ve led
-            development of complex features including real-time systems and production-grade
-            platforms. I care deeply about clean architecture, performance, and creating smooth user
-            experiences.
+            I'm a Senior Frontend Developer passionate about building modern web experiences that are fast, accessible, and intuitive. Starting with HTML, CSS, JavaScript, PHP, jQuery, and WordPress, I developed a strong understanding of the web before transitioning to modern frameworks like React, Next.js, TypeScript, and Vue.js. Over the past 5+ years, I've built production applications, led frontend initiatives, improved Core Web Vitals, and shipped features that have had measurable business impact.
+
           </p>
 
           <a href="#contact" className="btn btn-primary">
